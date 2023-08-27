@@ -1,3 +1,11 @@
+# Nangba's First CS193 Homework!
+
+Here is a list of some of my favorite things about CS193 so far:
+- It teaches helpful tools that will make things easier later on
+- Has helpful, but optional attendance, PSO where clarity can be recieved
+- No midterm exams!
+- Helps me progress my major
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
